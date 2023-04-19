@@ -1,0 +1,26 @@
+html {
+  font-family: "Quicksand", sans-serif;
+  min-height: 100vh;
+  max-width: 1280px;
+  align-content: center;
+  background-color: hwb(0 94% 3%);
+  margin: 0 auto;
+}
+
+.container {
+  width: 25%;
+  align-content: center;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 100px;
+  margin: 100px 100px;
+  border: 1px solid wheat;
+}
+.container form {
+  flex: 1;
+}
+
+.container .input {
+  padding: 20px;
+  width: 100%;
+}
